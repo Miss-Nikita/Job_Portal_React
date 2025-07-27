@@ -8,7 +8,7 @@ import {
   CategoryScale,
   LinearScale,
   BarElement,
-  Title,
+  Title,  
   Tooltip,
   Legend,
 } from 'chart.js';
